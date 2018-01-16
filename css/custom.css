@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+body {
+    background-image: url(../img/bg.jpg);
+    background-position: top center;
+    background-size: cover;
+}
+
+.bblogo {
+    margin: 9%;
+}
+
+.bannerad {
+    margin: 9%;
+}
+
+.jumbotron {
+    background-image: url(../img/logo.png);
+}
+
+.jumbotron h1 {
+    font-family: sans-serif;
+    font-size: 5%
+}
+
+.jumbotron p {
+    font-family: sans-serif;
+    font-size: 4%;
+}
+
+blockquote {
+    font-size: 7%;
+}
+
+footer {
+    background-color: #444444;
+    padding: .5% 2%;
+    color: #fff;
+    margin: 30px 0;
+}
